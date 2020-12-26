@@ -1,9 +1,7 @@
 # Using Cygwin With Your C++ VSCode Dev Environment
 
 ## Subject
-Once you've already [set up your VSCode environment on Windows](https://github.com/jeremyglebe/dev_tool_tutorials/tree/master/win_vsc) you may find
-yourself feeling like MinGW wasn't enough to bridge the Windows-GNU gap. If you
-need more GNU features so that you and your Linux/MacOS friends can both run
+If you need more GNU features so that you and your Linux/MacOS friends can both run
 the same code, you might consider installing Cygwin. Where MinGW just ports a
 few GNU tools over to Windows, Cygwin creates an entirely new environment on
 your system. In essence, when you compile with Cygwin you aren't considered to
