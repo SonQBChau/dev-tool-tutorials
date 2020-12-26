@@ -10,5 +10,5 @@ Tutorials on common developer tools.
 
 
 
-##### Credit: 
-[Jeremy Glebe](https://github.com/jeremyglebe/dev_tool_tutorials)  for the original tutorials
+#### Credit: 
+Thank [Jeremy Glebe](https://github.com/jeremyglebe/dev_tool_tutorials)  for the original tutorials
