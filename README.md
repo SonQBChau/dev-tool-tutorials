@@ -1,5 +1,5 @@
 # Developer Tool Tutorials
-Tutorials on common developer tools for computer science students.
+Tutorials on common developer tools.
 
 
 |    Tutorial Name     | Description                                        |
