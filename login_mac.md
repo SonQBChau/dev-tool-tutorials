@@ -18,7 +18,6 @@ Choose one of the following methods:
 ## Transfer files from a CSE machine to Mac
 **Make sure exit the SSH firstly (type `exit`) before transfer files by using SFTP. Otherwise you may lose your files.**
 
-Start SFTP
 1. Open the Terminal
 2. At the Terminal prompt, type `sftp euid@cse01.cse.unt.edu`
 3. At the password prompt, type your password and press <return>. The sftp prompt will appear: sftp>
