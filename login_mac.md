@@ -22,7 +22,7 @@ Start SFTP
 1. Open the Terminal
 2. At the Terminal prompt, type `sftp euid@cse01.cse.unt.edu`
 3. At the password prompt, type your password and press <return>. The sftp prompt will appear: sftp>
-<br>
+
 ![terminal](https://raw.githubusercontent.com/misc-sonchau/dev-tool-tutorials/main/images/mac_sftp.png)
 
 **Note**: *To find out your working directory, you can use the command `pwd`*
