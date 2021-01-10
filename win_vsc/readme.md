@@ -45,7 +45,7 @@ I highly recommend it.
 * Search for and select Code Runner from the list
 * Click `install` near the top of the page
 * To run your code, right click while in the cpp file and select "Run Code"
-* If you wish to compile multiple files and not simply execute the one you have open, [see this tutorial](https://github.com/jeremyglebe/dev_tool_tutorials/tree/master/vsc_mf)
+* If you wish to compile multiple files and not simply execute the one you have open, [see this tutorial](https://github.com/misc-sonchau/dev-tool-tutorials/tree/main/vsc_mf)
 * To configure additional settings, you'll need to go to your preferences 
     * Open your project's folder in Visual Studio Code
     * Click `file` in the top left
