@@ -20,3 +20,19 @@ MinGW for Windows (Recommended)
 WSL for Windows
 Clang for Mac (Recommended)
 
+## Hello World
+To make sure the compiler is installed and configured correctly, we'll create the simplest Hello World C++ program
+Create a folder called "HelloWorld" and open VS Code in that folder
+Now create a new file called `helloworld.cpp` with the **New File** button in the File Explorer or **File > New File** command.
+Now paste in this source code:
+
+```
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    cout << "Hello World" << endl;
+}
+```
+Now press `Ctrl+S` to save the file
