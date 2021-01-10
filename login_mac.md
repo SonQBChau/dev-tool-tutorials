@@ -11,6 +11,7 @@ Choose one of the following methods:
 
 *The first time you login a message will appear, you will have to accept a certificate to complete the connection.*
 
+  ![terminal](https://raw.githubusercontent.com/misc-sonchau/dev-tool-tutorials/main/images/mac_terminal.png)
 
 
 
