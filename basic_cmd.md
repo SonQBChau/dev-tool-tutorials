@@ -1,6 +1,8 @@
 
 
-**Create a New Folder:** `mkdir directory_name`
+### Create a New Folder
+
+`mkdir directory_name`
 
 For example, to create a folder name "Lab01":
 
