@@ -4,4 +4,7 @@
 	 - On the Installation Folder page, use the default installation folder. Copy the location as you will need it later. 
 	  - Select  **Next**  to start the installation.
 
-![mingGW](https://raw.githubusercontent.com/misc-sonchau/dev-tool-tutorials/main/images/mingSW_x86.jpg)
+![minGW](https://raw.githubusercontent.com/misc-sonchau/dev-tool-tutorials/main/images/minGW_x86.jpg)
+
+![minGW](https://raw.githubusercontent.com/misc-sonchau/dev-tool-tutorials/main/images/minGW_location.jpg)
+
