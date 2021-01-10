@@ -5,7 +5,7 @@
 
 ![vscode for windows](https://raw.githubusercontent.com/misc-sonchau/dev-tool-tutorials/main/images/vscode_win.jpg)
 
-This is optional, but I recommend to check all the boxes
+This is optional, but it is recommend to check all the boxes
 
 ![vscode boxes](https://raw.githubusercontent.com/misc-sonchau/dev-tool-tutorials/main/images/vscode_boxes.jpg)
 
@@ -13,4 +13,10 @@ This is optional, but I recommend to check all the boxes
 
 ![vscode extensions](https://raw.githubusercontent.com/misc-sonchau/dev-tool-tutorials/main/images/vscode_extensions.jpg)
 
+
+## Install a compiler
+Choose one of the method below:
+MinGW for Windows (Recommended)
+WSL for Windows
+Clang for Mac (Recommended)
 
