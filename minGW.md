@@ -17,9 +17,11 @@
     ![env](https://raw.githubusercontent.com/misc-sonchau/dev-tool-tutorials/main/images/windows_path.jpg)
     - Select **OK** to save the updated PATH. You will need to reopen any console windows for the new PATH location to be available.
 
-    Check your MinGW installation
+    ##### Check your MinGW installation (Optional) 
     To check that your Mingw-w64 tools are correctly installed and available, open a new Command Prompt and type:
     `g++ --version`
     `gdb --version`
-     ![check](https://raw.githubusercontent.com/misc-sonchau/dev-tool-tutorials/main/images/windows_checkh.jpg)
+
+     ![check](https://raw.githubusercontent.com/misc-sonchau/dev-tool-tutorials/main/images/windows_check.jpg)
+
     If you don't see the expected output or g++ or gdb is not a recognized command, check your installation (Windows Control Panel > Programs) and make sure your PATH entry matches the Mingw-w64 binary location where the compilers are located.
