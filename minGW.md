@@ -12,5 +12,6 @@
     - Search for **Edit environment variables for your account**.
       ![settings](https://raw.githubusercontent.com/misc-sonchau/dev-tool-tutorials/main/images/windows_settings.jpg)
     - Choose the `Path` variable and then select **Edit**.
+     ![settings](https://raw.githubusercontent.com/misc-sonchau/dev-tool-tutorials/main/images/windows_env.jpg)
     - Select **New** and add the Mingw-w64 destination folder path to the system path. The exact path depends on which version of Mingw-w64 you have installed and where you installed it. If you used the settings above to install Mingw-w64, then add this to the path: `C:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin`.
     - Select **OK** to save the updated PATH. You will need to reopen any console windows for the new PATH location to be available.
