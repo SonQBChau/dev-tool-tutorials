@@ -16,18 +16,37 @@ Choose one of the following methods:
 
 
 ## Transfer files from a CSE machine to Mac
-**Make sure exit the SSH firstly (close it) before transfer files by using SFTP. Otherwise you may lose your files.**
+**Make sure exit the SSH firstly (type `exit`) before transfer files by using SFTP. Otherwise you may lose your files.**
 
 Start SFTP
 1. Open the Terminal
 2. At the Terminal prompt, type `sftp euid@cse01.cse.unt.edu`
 3. At the password prompt, type your password and press <return>. The sftp prompt will appear: sftp>
 <br>
-##### Upload from the Mac to UNIX
-At the sftp prompt, type, put filename return
+![terminal](https://raw.githubusercontent.com/misc-sonchau/dev-tool-tutorials/main/images/mac_sftp.png)
+
+**Note**: *To find out your working directory, you can use the command `pwd`*
+
+*If prompt for access, click Ok*
+
+##### Upload files
+The command to upload files to a remote server, is:
+
+`put path_to_local_file remote_file`
+
+For example, this command will put the file called "hello.cpp" from **Downloads directory**, into the **working directory** in the remote server
+
+`put /Users/sonchau/Downloads/hello.cpp`
 <br>
+
 ##### Download from UNIX to the Mac
-At the sftp prompt, type, get filename return
+The command to download files off of a remote server, is:
+
+`get path_to_remote_file path_to_local_file`
+
+For example, this command will download the file called "hello.cpp" from the **Lab01 directory** on the remote server into **Downloads directory** on my Mac.
+
+`get Lab01/hello.cpp /Users/sonchau/Downloads/`
 <br>
 ##### Quit SFTP
 At the sftp prompt, type quit and press return
