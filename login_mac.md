@@ -1,14 +1,17 @@
 ## Open Terminal in Mac
 Choose one of the following methods:
 - Cmd + Space to open Search bar and type in Terminal
-- Click the Terminal icon in the Dock 
+- Click the Terminal icon in the Dock
 - Double-click the Terminal icon in Applications> Utilities.
 
 ## Log on to a CSE machine from Mac
 
 1. Open the Terminal and type `ssh euid@cse01.cse.unt.edu` (replace "euid" with *your* actually euid)
+
 *The first time you start SFTP a message similar to this will appear, You will have to accept a certificate to complete the connection.*
+
 *At the prompt, Are you sure you want to continue connecting (yes/no)?, type yes and press return.*
+
 2. At the password prompt, type your password and press return. The sftp prompt will appear: sftp>
 
 
