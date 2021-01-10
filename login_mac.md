@@ -32,7 +32,7 @@ Start SFTP
 ##### Upload files
 The command to upload files to a remote server, is:
 
-`put path_to_local_file remote_file`
+`put path_to_local_file`
 
 For example, this command will put the file called "hello.cpp" from **Downloads directory**, into the **working directory** in the remote server
 
@@ -49,4 +49,4 @@ For example, this command will download the file called "hello.cpp" from the **L
 `get Lab01/hello.cpp /Users/sonchau/Downloads/`
 <br>
 ##### Quit SFTP
-At the sftp prompt, type quit and press return
+At the sftp prompt, type exit and press return
