@@ -20,14 +20,12 @@ The following is assumed about your environment:
     * Add to PATH (requires shell restart)
 * The first two options allow you to open VSCode by right clicking in a folder or file. The third option lets you open VSCode from command line using the command `code [folder_path]`.
 
-## Install [MinGW-W64](https://sourceforge.net/projects/mingw-w64/files/)
-MinGW is a package of GNU elements for developers on Windows. If that last
+## Install [MinGW-W64](http://mingw-w64.org/doku.php)
+MinGW-W64 is a package of GNU elements for developers on Windows. If that last
 sentence didn't make sense, don't worry its not important. What *is* important
-is that MinGW comes with the option to install the G++ compiler. This is the
+is that MinGW-W64 comes with the option to install the G++ compiler. This is the
 compiler of choice for many c++ developers and the one we will be using.
-(Note: MinGW-W64 is a newer, actively maintained version of MinGW. This
-tutorial was originally written for MinGW but MinGW-W64 has wider compatibility
-and easier installation.)
+
 * Under `Architecture` select `x86_64`
 * NOTE which directory MinGW is installed to, it should contain a folder called `mingw64\bin\`
 * Add MinGW's `bin\` folder to your `PATH`
