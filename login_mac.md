@@ -26,14 +26,10 @@ At the prompt, type `exit` and press return
 
 ![terminal](https://raw.githubusercontent.com/misc-sonchau/dev-tool-tutorials/main/images/mac_sftp.png)
 
-**Note**: *To find out your working directory, you can use the command `pwd`*
-
-*If prompt for access, click Ok*
-
 #### Upload files
 The command to upload files to a remote server, is:
 
-`put path_to_local_file`
+`put path_to_local_file/file_name`
 
 For example, this command will put the file called "hello.cpp" from **Downloads directory**, into the **working directory** in the remote server
 
@@ -43,11 +39,11 @@ For example, this command will put the file called "hello.cpp" from **Downloads 
 #### Download files
 The command to download files off of a remote server, is:
 
-`get path_to_remote_file path_to_local_file`
+`get path_to_remote_file/file_name path_to_local_file`
 
 For example, this command will download the file called "hello.cpp" from the **Lab01 directory** on the remote server into **Downloads directory** on my Mac.
 
 `get Lab01/hello.cpp /Users/sonchau/Downloads/`
 <br>
 #### Quit SFTP
-At the sftp prompt, type exit and press return
+At the sftp prompt, type `exit` and press return
