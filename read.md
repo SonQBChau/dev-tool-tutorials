@@ -1,0 +1,1 @@
+1. Install [Visual Studio Code](https://code.visualstudio.com/download) 
