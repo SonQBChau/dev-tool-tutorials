@@ -1,8 +1,8 @@
 ## Open Terminal in Mac
 Choose one of the following methods:
 - Cmd + Space to open Search bar and type in Terminal
-- Click the Terminal icon in the Dock
-- Double-click the Terminal icon in Applications> Utilities.
+- OR Click the Terminal icon in the Dock
+- OR Double-click the Terminal icon in Applications> Utilities.
 
 ## Log on to a CSE machine from Mac
 
