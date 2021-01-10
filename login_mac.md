@@ -6,7 +6,7 @@ Choose one of the following methods:
 
 ## Log on to a CSE machine from Mac
 
-1. Open the Terminal and type `ssh euid@cse01.cse.unt.edu` (replace "euid" with *your* actually euid)
+1. Open the Terminal and type `ssh euid@cse01.cse.unt.edu` (replace "euid" with *your* euid)
 
 *The first time you start SFTP a message similar to this will appear, You will have to accept a certificate to complete the connection.*
 
