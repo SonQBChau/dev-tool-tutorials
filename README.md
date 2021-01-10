@@ -5,9 +5,9 @@ Tutorials on common developer tools.
 |    Tutorial Name     | Description                                        |
 |:--------------------:|:-------------------------------------------------- |
 | [C++ w/ Windows, VSCode](https://github.com/misc-sonchau/dev-tool-tutorials/tree/main/win_vsc) | Setting up a c++ dev environment with vscode on Windows |
-| [VSC C++ Multi Files](https://github.com/misc-sonchau/dev-tool-tutorials/tree/main/vsc_mf) | Compiling c++ programs with multiple files in Visual Studio Code |
+| [C++ Multi Files, VSCode](https://github.com/misc-sonchau/dev-tool-tutorials/tree/main/vsc_mf) | Compiling c++ programs with multiple files in Visual Studio Code |
 | [C++ w/ Cygwin, VSCode](https://github.com/misc-sonchau/dev-tool-tutorials/tree/main/cyg_vsc) | Using Cygwin with your c++ VSCode environment |
-
+| [Git, VSCode](https://github.com/misc-sonchau/dev-tool-tutorials/tree/main/git_vsc) | Using Git in VSCode environment |
 
 
 #### Credit: 
