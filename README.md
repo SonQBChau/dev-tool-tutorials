@@ -1,14 +1,10 @@
-# Developer Tool Tutorials
-Tutorials on common developer tools.
+# CSE 1030 Tutorials
 
+### For Windows
 
 |    Tutorial Name     | Description                                        |
 |:--------------------:|:-------------------------------------------------- |
-| [C++ w/ MinGW, VSCode](https://github.com/misc-sonchau/dev-tool-tutorials/tree/main/win_vsc) | Setting up a C++ dev environment with vscode on Windows |
-| [C++ w/ Multi Files, VSCode](https://github.com/misc-sonchau/dev-tool-tutorials/tree/main/vsc_mf) | Compiling C++ programs with multiple files in Visual Studio Code |
-| [C++ w/ Cygwin, VSCode](https://github.com/misc-sonchau/dev-tool-tutorials/tree/main/cyg_vsc) | Using Cygwin on Windows with your C++ VSCode environment |
-| [Git, VSCode](https://github.com/misc-sonchau/dev-tool-tutorials/tree/main/git_vsc) | Using Git in VSCode environment |
+| [PuTTY](https://github.com/misc-sonchau/dev-tool-tutorials/tree/main/win_vsc) |  PuTTY is used to access the command prompt on remote server|
+| [winSCP](https://github.com/misc-sonchau/dev-tool-tutorials/tree/main/vsc_mf) | WinSCP will allow you to transfer files between your computer and the server |
 
 
-#### Credit: 
-Thank [Jeremy Glebe](https://github.com/jeremyglebe/dev_tool_tutorials)  for the original tutorials
