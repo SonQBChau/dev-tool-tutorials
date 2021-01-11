@@ -2,10 +2,10 @@
  
 1. Go to [winSCP](https://winscp.net/eng/download.php) and download the latest free version.
 2. Run the installer
-- Select Install for all users
-- Typical Installation
-- User Interface Style: Commander
-- Click Yes if have option to import stored sessions from PuTTY
+    - Select Install for all users
+    - Typical Installation
+    - User Interface Style: Commander
+    - Click Yes if have option to import stored sessions from PuTTY
 
  ## Log on to a CSE machine from winSCP
   - File protocol: SFTP
