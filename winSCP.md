@@ -7,4 +7,4 @@
 - User interface style: Commander
 - Click Yes to import stored sessions from PuTTY
 
-  ![winSCP](https://raw.githubusercontent.com/misc-sonchau/dev-tool-tutorials/main/images/windows_putty.jpg)
+  ![winSCP](https://raw.githubusercontent.com/misc-sonchau/dev-tool-tutorials/main/images/winSCP_login.jpg)
