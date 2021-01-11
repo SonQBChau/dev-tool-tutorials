@@ -8,6 +8,10 @@ For example, to create a folder name "Lab01":
 
 `mkdir Lab01`
 
+### Remove a Folder
+
+`rmdir directory_name`
+
 ### Create a New File
 
 `touch file_name`
@@ -63,6 +67,10 @@ For example, to edit the file “hello_world.cpp”:
 ### Other useful commands:
 
 Find out working directory: `pwd`
+
+To list the files in the working directory: `ls`
+
+To change your working directory: `cd`
 
 To clear screen: `clear`
 
