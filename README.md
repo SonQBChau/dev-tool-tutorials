@@ -1,10 +1,13 @@
 # CSE 1030 Tutorials
 
 ### For Windows
+[PuTTY](https://github.com/misc-sonchau/dev-tool-tutorials/tree/main/puTTY) 
 
-|    Tutorial Name     | Description                                        |
-|:--------------------:|:-------------------------------------------------- |
-| [PuTTY](https://github.com/misc-sonchau/dev-tool-tutorials/tree/main/win_vsc) |  PuTTY is used to access the command prompt on remote server|
-| [winSCP](https://github.com/misc-sonchau/dev-tool-tutorials/tree/main/vsc_mf) | WinSCP will allow you to transfer files between your computer and the server |
+[WinSCP](https://github.com/misc-sonchau/dev-tool-tutorials/tree/main/winSCP) 
 
 
+### For Mac
+
+[SSH](https://github.com/misc-sonchau/dev-tool-tutorials/tree/main/ssh_mac) 
+
+[FileZilla](https://github.com/misc-sonchau/dev-tool-tutorials/tree/main/fileZilla) 
