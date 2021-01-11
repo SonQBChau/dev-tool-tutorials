@@ -1,12 +1,12 @@
 # CSE 1030 Tutorials
 
-### For Windows
+## For Windows
 [PuTTY](https://github.com/misc-sonchau/dev-tool-tutorials/tree/main/puTTY) 
 
 [WinSCP](https://github.com/misc-sonchau/dev-tool-tutorials/tree/main/winSCP) 
 
 
-### For Mac
+## For Mac
 
 [SSH](https://github.com/misc-sonchau/dev-tool-tutorials/tree/main/ssh_mac) 
 
