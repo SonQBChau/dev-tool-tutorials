@@ -1,8 +1,8 @@
  ## Install FileZilla
 
-1. Go to [FileZilla](https://filezilla-project.org/download.php?platform=osx) and select FileZilla (first option).
-2. Double click to unzip the file
-3. Drag and Drop FileZilla to Applications folder
+1. Go to [FileZilla](https://filezilla-project.org/download.php?platform=osx) and download FileZilla (first option).
+2. Double click to unzip
+3. Drag and Drop FileZilla app to Applications folder
 
   ![fileZilla](https://raw.githubusercontent.com/misc-sonchau/dev-tool-tutorials/main/images/fileZilla_install.png)
 
