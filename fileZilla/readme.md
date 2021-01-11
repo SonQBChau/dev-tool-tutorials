@@ -8,11 +8,8 @@
 
  ## Log on to a CSE machine from fileZilla
   - Host: `cse01.cse.unt.edu`
-
   - Username: euid
-
   - Port: 22
-
   - Click Quickconnect
 
   ![fileZilla login](https://raw.githubusercontent.com/misc-sonchau/dev-tool-tutorials/main/images/fileZilla_login.png)
