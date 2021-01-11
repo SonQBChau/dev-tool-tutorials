@@ -9,15 +9,10 @@
 
  ## Log on to a CSE machine from winSCP
   - File protocol: SFTP
-
   - Host name: `cse01.cse.unt.edu`
-
   - Port: 22
-
   - Username: euid
-
   - Click Save
-
   - Click Login
 
   ![winSCP](https://raw.githubusercontent.com/misc-sonchau/dev-tool-tutorials/main/images/winSCP_login.jpg)
