@@ -1,5 +1,5 @@
 # CSE 1030 Tutorials
-Step by step instructions to install and setup some development tools for CSE 1030
+Instruction to install and setup some development tools for CSE 1030
 
 # For Windows
 [PuTTY](https://github.com/misc-sonchau/dev-tool-tutorials/tree/main/puTTY) 
