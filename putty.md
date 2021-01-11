@@ -7,3 +7,5 @@
 4. Click Open
 
   ![putty](https://raw.githubusercontent.com/misc-sonchau/dev-tool-tutorials/main/images/windows_putty.jpg)
+
+![login](https://raw.githubusercontent.com/misc-sonchau/dev-tool-tutorials/main/images/windows_login.jpg)
