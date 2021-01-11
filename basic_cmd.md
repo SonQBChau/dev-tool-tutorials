@@ -20,7 +20,7 @@ For example, to create a file "hello_world.cpp":
 
 `rename old_name new_name`
 
-For example, to change the name of "hello_world.cpp" to "hello.cpp", the command will become:
+For example, to change the name of "hello_world.cpp" to "hello.cpp":
 
 `rename hello_world.cpp hello.cpp`
 
@@ -36,7 +36,7 @@ For example, to delete the file called “hello_world.cpp”:
 
 `rename file_name path_to_new_file/file_name`
 
-For example, to move a file called “hello_world.cpp” from the root directory to the "Lab01" directory:
+For example, to move a file called “hello_world.cpp” from the root directory to "Lab01" directory:
 
 `rename hello_world.cpp Lab01/hello_world.cpp`
 
