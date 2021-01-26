@@ -40,4 +40,4 @@
 
 *After this, just right click on the file and click View/Edit should take you to the editor*
 
-**Click Yes on "Upload this file back to the server ?"**
+**When Save, Click Yes on "Upload this file back to the server ?"**
