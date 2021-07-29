@@ -1,0 +1,15 @@
+## HOW TO CREATE PYTHON VIRTUAL ENVIRONMENT IN VSCODE
+
+1. Run in the current location:
+
+```python -m venv .venv```
+
+2. Select new interpreter python in the .venv/script folder path
+
+3. Open new powershell to confirm the path (.venv) in the powershell
+
+4. Start pip install
+
+### REFERENCES
+https://code.visualstudio.com/docs/python/environments
+https://stackoverflow.com/questions/54106071/how-can-i-set-up-a-virtual-environment-for-python-in-visual-studio-code
