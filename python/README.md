@@ -16,3 +16,21 @@ https://code.visualstudio.com/docs/python/environments
 https://stackoverflow.com/questions/54106071/how-can-i-set-up-a-virtual-environment-for-python-in-visual-studio-code
 
 https://techinscribed.com/python-virtual-environment-in-vscode/
+
+## CONDA FOR MAC M1 VSCODE
+To install at current location
+
+```conda create --prefix ./envs```
+
+or with packages
+
+```conda create --prefix ./envs scipy```
+
+Required to restart Terminal to take effect
+
+```conda init zsh```
+
+Activate 
+
+```conda activate ./envs```
+
