@@ -12,4 +12,7 @@
 
 ### REFERENCES
 https://code.visualstudio.com/docs/python/environments
+
 https://stackoverflow.com/questions/54106071/how-can-i-set-up-a-virtual-environment-for-python-in-visual-studio-code
+
+https://techinscribed.com/python-virtual-environment-in-vscode/
