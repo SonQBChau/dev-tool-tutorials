@@ -1,4 +1,4 @@
-## HOW TO CREATE PYTHON VIRTUAL ENVIRONMENT IN VSCODE
+## HOW TO CREATE PYTHON VIRTUAL ENVIRONMENT IN VSCODE WINDOW
 
 1. Run in the current location:
 
@@ -10,7 +10,7 @@
 
 4. Start pip install
 
-### REFERENCES
+#### REFERENCES
 https://code.visualstudio.com/docs/python/environments
 
 https://stackoverflow.com/questions/54106071/how-can-i-set-up-a-virtual-environment-for-python-in-visual-studio-code
